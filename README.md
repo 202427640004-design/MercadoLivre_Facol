@@ -32,3 +32,17 @@ O sistema simula um **cadastro e gerenciamento de produtos**, inspirado no funci
 
    ```bash
    git clone https://github.com/seuusuario/MercadoLivre_Facol.git
+
+
+   Main.java
+
+---
+
+📌 Como usar:  
+1. Crie um arquivo chamado **`README.md`** no seu repositório (pelo botão **Add file → Create new file**).  
+2. Copie e cole esse conteúdo.  
+3. Clique em **Commit changes** para salvar.  
+
+---
+
+👉 Quer que eu edite esse `README.md` já com **seu nome** e **nome do professor/disciplina** para você só colar no GitHub?
